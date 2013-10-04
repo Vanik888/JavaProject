@@ -1,0 +1,13 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ошибка Авторизации</title>
+</head>
+<body>
+<div>
+    <p>Please try it again</p>
+    <a href="authform">Auth</a>
+</div>
+
+
+</body>
+</html>
